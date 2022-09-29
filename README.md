@@ -1,2 +1,2 @@
 # nbdev_cards
-nbdev workshop
+A sample of how to create deck of cards lib using nbdev
