@@ -4,7 +4,7 @@
 __all__ = ['suits', 'ranks', 'Card']
 
 # %% ../nbs/00_card.ipynb 3
-suits = ["clubs", "diamonds", "spade", "hearts"]
+suits = ["clubs", "diamonds", "spades", "hearts"]
 ranks = [None, "A"] + [x for x in range(2, 11)] + ["J", "Q", "K"]
 
 # %% ../nbs/00_card.ipynb 12
