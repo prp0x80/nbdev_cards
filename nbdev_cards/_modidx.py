@@ -6,5 +6,8 @@ d = { 'settings': { 'branch': 'main',
                 'git_url': 'https://github.com/prp0x80/nbdev_cards',
                 'lib_path': 'nbdev_cards'},
   'syms': { 'nbdev_cards.card': { 'nbdev_cards.card.Card': ('card.html#card', 'nbdev_cards/card.py'),
+                                  'nbdev_cards.card.Card.__eq__': ('card.html#card.__eq__', 'nbdev_cards/card.py'),
+                                  'nbdev_cards.card.Card.__gt__': ('card.html#card.__gt__', 'nbdev_cards/card.py'),
                                   'nbdev_cards.card.Card.__init__': ('card.html#card.__init__', 'nbdev_cards/card.py'),
+                                  'nbdev_cards.card.Card.__lt__': ('card.html#card.__lt__', 'nbdev_cards/card.py'),
                                   'nbdev_cards.card.Card.__str__': ('card.html#card.__str__', 'nbdev_cards/card.py')}}}
