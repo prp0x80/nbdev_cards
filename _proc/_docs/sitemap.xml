@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://prp0x80.github.io/nbdev_cards/card.html</loc>
-    <lastmod>2022-10-01T00:21:01.854Z</lastmod>
+    <lastmod>2022-10-01T19:15:15.179Z</lastmod>
   </url>
   <url>
     <loc>https://prp0x80.github.io/nbdev_cards/index.html</loc>
-    <lastmod>2022-10-01T00:21:02.466Z</lastmod>
+    <lastmod>2022-10-01T19:15:20.579Z</lastmod>
+  </url>
+  <url>
+    <loc>https://prp0x80.github.io/nbdev_cards/deck.html</loc>
+    <lastmod>2022-10-01T19:19:46.143Z</lastmod>
   </url>
 </urlset>
