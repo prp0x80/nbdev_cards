@@ -1,0 +1,6 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 001_deck.ipynb
+      - 00_card.ipynb
